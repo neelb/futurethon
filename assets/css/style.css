@@ -55,7 +55,11 @@ iframe {
 }
 
 #i-voted-sticker {
-	height: 70px;
+	height: 120px;
+}
+
+.challenge-thumbnails {
+	width: 75%
 }
 
 /* Selection */
