@@ -62,6 +62,16 @@ iframe {
 	width: 75%
 }
 
+#img-blp {
+	position: relative;
+	top: -10px;
+}
+
+#img-spark {
+	position: relative;
+	top: 5px;
+}
+
 /* Selection */
 
 ::-moz-selection {
