@@ -72,6 +72,16 @@ iframe {
 	top: 5px;
 }
 
+#img-npr {
+	position: relative;
+	top: -20px;
+}
+
+.img-challenge-partners {
+	position: relative;
+	left: -5px;
+}
+
 /* Selection */
 
 ::-moz-selection {
