@@ -2315,6 +2315,20 @@ Responsive Media Querries
 
 }
 
+@media (max-width: 370px) {
+	.hs-title-size-1 {
+		margin-top: -80px;
+	}
+
+	.hs-title-size-2 {
+		margin-top: -10px;
+	}
+
+	#i-voted-sticker {
+		margin-top: -15px;
+	}
+}
+
 @media only screen and (max-width: 480px) {
 
 	.work-item,
@@ -2322,13 +2336,6 @@ Responsive Media Querries
 	.works-grid-4 .work-item,
 	.works-grid-5 .work-item {
 		width: 100%;
-	}
-
-}
-
-@media (max-width: 360px) {}
-	.hs-title-size-2 {
-		margin-top: -10px;
 	}
 
 }
