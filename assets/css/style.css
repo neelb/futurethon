@@ -2324,8 +2324,16 @@ Responsive Media Querries
 		margin-top: -10px;
 	}
 
+	#building-tech-section {
+		margin-top: -20px;
+	}
+
 	#i-voted-sticker {
 		margin-top: -15px;
+	}
+
+	.small-screen-case-buttons {
+		margin-top: -40px
 	}
 }
 
