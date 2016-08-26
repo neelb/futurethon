@@ -77,6 +77,22 @@ iframe {
 	top: -20px;
 }
 
+#img-upworthy {
+	position: relative;
+	top: -20px;
+}
+
+#img-mayorsoffice {
+	position: relative;
+	top: -20px;
+	height: 120px;
+}
+
+#img-500startups {
+	position: relative;
+	height: 150px;
+}
+
 .img-challenge-partners {
 	position: relative;
 	left: -5px;
